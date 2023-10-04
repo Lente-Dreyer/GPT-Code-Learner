@@ -4,7 +4,7 @@ Learn A Repo Interactively with GPT. Ask questions to let the GPT explain the co
 ![GPT-Code-Learner.jpg](docs%2FGPT-Code-Learner.jpg)
 
 ### Try it out in your browser
-![GUI.jpg](docs%2FGUI.jpg)
+![GUI.jpg][def]
 
 
 ## Local LLM Support (Experimental)
@@ -58,3 +58,5 @@ Currently, the tool planner supports the following tools:
 - **Repo_Parser**: This tool performs a fuzzy search with vector database of the code repo. It provides contexts for questions about the general procedures in the repo.
 
 More tools are under development. Feel free to contribute to this project!
+
+[def]: docs%2FGUI.jpg
